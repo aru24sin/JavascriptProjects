@@ -4,11 +4,11 @@
 let message;
 message = "Hello";
 
-let name = "Ary"
+let firstName = "Ary"
 let date = "5/2/2025";
 
 alert(message);
-alert(name);
+alert(firstName);
 alert(date);
 alert(3 + 2);
 // Example of a comment
