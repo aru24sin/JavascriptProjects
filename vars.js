@@ -5,14 +5,18 @@
 let message;
 message = "Hello";
 
-let firstName = "Ary"
+let firstName = "Ary";
 let date = "5/2/2025";
 
-alert(message);
-alert(firstName);
-alert(date);
-alert(3 + 2);
+let lastName = "Singh"
+    , age = 25
+    , message2 = "Welcome!";
+
+console.log(message, firstName, "It is", date, "You are", age)
 // Example of a comment
 /* Example
     of a 
 multiline comment */
+
+//Const for unchanging variable
+const COLOR_RED = "#F00";
